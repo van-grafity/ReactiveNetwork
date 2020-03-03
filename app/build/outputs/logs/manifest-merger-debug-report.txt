@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [:library] /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/494e765f7b1c19f5f421822ff1c95af9/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/abb643db1dc03ef6f2ad0b7a48eb62f0/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/3ae92257608f44c2f403d3c1241e2141/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/29a04b48cc350d734f4750a59fae535d/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/736c36c00b4e5d514dac725c1b9f5076/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/bf3bd7a17e715be1373563c84ff8a637/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/7d53b87fca1ac3bd5f88f5dfc46d753a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/e6904b467a3cb3661b24df8af64878f6/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/ae394f40aae0fbda1ccac8f1d0df32ef/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/cf506918b7511393895ac8610b2ea1a1/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/da470735c9eaa3caf6a1a1f6cdcd3602/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/7d85df57165be4c60609e83738a5a987/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/a5ccabd50e5b97e365fafb4dec954ceb/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/2b3cc6032dece0a570cc8d9fea06ef4c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/670907960def18801145e37aff329f7c/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/3e0d4ad3333b1156b41cccc6dc9a5c69/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/b803f3bf38276de9c958688839bf0da8/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/5171574e84fc4da10a766e0eba8c8060/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/ce0567ea0225501e17ee8ab1fec8d54c/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/9b97da48bbfa713951e14d739517c9a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/84519907cc071ab12ab336ccff774f5e/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:5:5-78
+MERGED from [:library] /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:library] /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [:library] /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:library] /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [:library] /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-20
+MERGED from [:library] /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/7d85df57165be4c60609e83738a5a987/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/7d85df57165be4c60609e83738a5a987/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/2b3cc6032dece0a570cc8d9fea06ef4c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/2b3cc6032dece0a570cc8d9fea06ef4c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/7d85df57165be4c60609e83738a5a987/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:12:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:13:9-44
+activity#com.github.pwittchen.reactivenetwork.app.MainActivity
+ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+MERGED from [:library] /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:library] /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/library/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/494e765f7b1c19f5f421822ff1c95af9/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/494e765f7b1c19f5f421822ff1c95af9/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/abb643db1dc03ef6f2ad0b7a48eb62f0/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/abb643db1dc03ef6f2ad0b7a48eb62f0/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/3ae92257608f44c2f403d3c1241e2141/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/3ae92257608f44c2f403d3c1241e2141/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/29a04b48cc350d734f4750a59fae535d/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/29a04b48cc350d734f4750a59fae535d/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/736c36c00b4e5d514dac725c1b9f5076/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/736c36c00b4e5d514dac725c1b9f5076/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/bf3bd7a17e715be1373563c84ff8a637/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/bf3bd7a17e715be1373563c84ff8a637/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/7d53b87fca1ac3bd5f88f5dfc46d753a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/7d53b87fca1ac3bd5f88f5dfc46d753a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/e6904b467a3cb3661b24df8af64878f6/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/e6904b467a3cb3661b24df8af64878f6/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/ae394f40aae0fbda1ccac8f1d0df32ef/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/ae394f40aae0fbda1ccac8f1d0df32ef/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/cf506918b7511393895ac8610b2ea1a1/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/cf506918b7511393895ac8610b2ea1a1/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/da470735c9eaa3caf6a1a1f6cdcd3602/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/da470735c9eaa3caf6a1a1f6cdcd3602/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/7d85df57165be4c60609e83738a5a987/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/7d85df57165be4c60609e83738a5a987/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/a5ccabd50e5b97e365fafb4dec954ceb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/a5ccabd50e5b97e365fafb4dec954ceb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/2b3cc6032dece0a570cc8d9fea06ef4c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/2b3cc6032dece0a570cc8d9fea06ef4c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/670907960def18801145e37aff329f7c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/670907960def18801145e37aff329f7c/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/3e0d4ad3333b1156b41cccc6dc9a5c69/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/3e0d4ad3333b1156b41cccc6dc9a5c69/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/b803f3bf38276de9c958688839bf0da8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/b803f3bf38276de9c958688839bf0da8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/5171574e84fc4da10a766e0eba8c8060/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/5171574e84fc4da10a766e0eba8c8060/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/ce0567ea0225501e17ee8ab1fec8d54c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/ce0567ea0225501e17ee8ab1fec8d54c/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/9b97da48bbfa713951e14d739517c9a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/9b97da48bbfa713951e14d739517c9a7/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/84519907cc071ab12ab336ccff774f5e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ivansuhendra/.gradle/caches/transforms-2/files-2.1/84519907cc071ab12ab336ccff774f5e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/src/main/AndroidManifest.xml

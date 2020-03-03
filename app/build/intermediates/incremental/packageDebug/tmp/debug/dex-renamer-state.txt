@@ -1,0 +1,4 @@
+#Tue Mar 03 09:45:23 WIB 2020
+base.0=/Users/ivansuhendra/Documents/TrainingProject/ReactiveNetwork/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
